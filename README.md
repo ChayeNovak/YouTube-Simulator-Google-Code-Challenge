@@ -1,4 +1,4 @@
-All java files are contained in the zip folder on here.
+All necessary files are contained in the zip folder on here, while the java files have also been added by itself to show code online without needing to unzip.
 
 # Youtube Challenge - Java
 The Java Youtube Challenge uses Java 11, Junit 5.4 and Maven.
