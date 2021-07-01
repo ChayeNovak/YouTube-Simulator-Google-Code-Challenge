@@ -1,0 +1,8 @@
+Persistence 3
+knowledge 2
+creativity 4
+code structure 5
+problem solving 3
+parts completed 1
+
+total: 18 points
